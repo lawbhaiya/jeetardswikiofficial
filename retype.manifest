@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2024-11-01T18:10:26Z",
+  "created": "2024-11-01T19:18:36Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -46,6 +46,9 @@
     },
     {
       "path": "guides\\teachers-for-jee\\index.html"
+    },
+    {
+      "path": "helping\\index.html"
     },
     {
       "path": "index.html"
@@ -138,10 +141,14 @@
       "path": "study-materials\\pyq-solving\\index.html"
     },
     {
-      "path": "study-materials\\reddittime\\index.html"
+      "path": "study-materials\\reddittime\\index.html",
+      "old": true
     },
     {
       "path": "study-materials\\test-series\\index.html"
+    },
+    {
+      "path": "suggestion\\index.html"
     }
   ]
 }
