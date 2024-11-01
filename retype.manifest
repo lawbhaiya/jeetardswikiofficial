@@ -1,0 +1,147 @@
+{
+  "version": "3.6.0",
+  "created": "2024-11-01T18:10:26Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "backup\\index.html"
+    },
+    {
+      "path": "banner.jpg"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "contribution\\index.html"
+    },
+    {
+      "path": "credits\\index.html"
+    },
+    {
+      "path": "guides\\backup-exams\\index.html"
+    },
+    {
+      "path": "guides\\basics\\index.html"
+    },
+    {
+      "path": "guides\\class11\\index.html"
+    },
+    {
+      "path": "guides\\class12\\index.html"
+    },
+    {
+      "path": "guides\\dropperz\\index.html"
+    },
+    {
+      "path": "guides\\jeerney\\index.html"
+    },
+    {
+      "path": "guides\\other-guides\\index.html"
+    },
+    {
+      "path": "guides\\teachers-for-jee\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "introduction\\faq\\index.html"
+    },
+    {
+      "path": "introduction\\jee-advanced\\index.html"
+    },
+    {
+      "path": "introduction\\jee-mains\\index.html"
+    },
+    {
+      "path": "introduction\\jee\\index.html"
+    },
+    {
+      "path": "introduction\\registration\\index.html"
+    },
+    {
+      "path": "notifications\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "study-materials\\analysis\\index.html"
+    },
+    {
+      "path": "study-materials\\books\\index.html"
+    },
+    {
+      "path": "study-materials\\community-posts\\index.html"
+    },
+    {
+      "path": "study-materials\\courses\\index.html"
+    },
+    {
+      "path": "study-materials\\extra-materials\\index.html"
+    },
+    {
+      "path": "study-materials\\handbooks\\index.html"
+    },
+    {
+      "path": "study-materials\\modules\\index.html"
+    },
+    {
+      "path": "study-materials\\others\\index.html"
+    },
+    {
+      "path": "study-materials\\pyq-solving\\index.html"
+    },
+    {
+      "path": "study-materials\\reddittime\\index.html"
+    },
+    {
+      "path": "study-materials\\test-series\\index.html"
+    }
+  ]
+}
