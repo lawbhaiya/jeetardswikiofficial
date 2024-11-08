@@ -1,6 +1,6 @@
 ---
 icon: triangle-right
-visibility: hidden
+
 ---
 
 To contribute to the wiki or make some changes, kindly visit my [Github Profile](https://github.com/lawbhaiya)
