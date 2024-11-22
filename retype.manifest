@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2024-11-01T19:37:47Z",
+  "created": "2024-11-08T11:06:35Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -133,6 +133,9 @@
     },
     {
       "path": "study-materials\\modules\\index.html"
+    },
+    {
+      "path": "study-materials\\notes\\index.html"
     },
     {
       "path": "study-materials\\others\\index.html"
