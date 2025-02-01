@@ -8,6 +8,8 @@ CONTRIBUTING: For those interested to contribute/update, you can either directly
 
 > Limitations: Well, the jeetardswiki.netlify.app might not always be up on the web for a week in a month if coz i got no money and limited bandwidth. Solution is to wait for the next month and the bandwidth refreshes or help me run the site by paying a chaisutta amount.
 
+> Anybody willing to take over this project is free to mail me coz this is the end of my JEE materials sharing journey. Adios!
+
 LOVE YOU ALL
 ALL THE BEST FOR YOUR UPCOMING JOURNEY 
 
